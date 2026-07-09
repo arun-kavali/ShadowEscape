@@ -1,4 +1,4 @@
-# Space Escape Runner 🚀
+# Shadow Escape Runner 🚀
 
 A fast-paced arcade game where you dodge falling asteroids and rack up your high score.
 
