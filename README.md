@@ -9,8 +9,8 @@ Follow these steps to run the game on your own machine.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/SpaceEscapeRunner.git
-cd SpaceEscapeRunner
+git clone https://github.com/arun-kavali/ShadowEscape.git
+cd ShadowEscape
 ```
 
 ### 2. Install dependencies
